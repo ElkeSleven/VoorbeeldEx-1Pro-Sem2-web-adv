@@ -18,8 +18,9 @@ function ControlleerInput(){
     }
 }
 
-//-----------------------------------------------------------------------------------------------------------
 
+//-----------------------------------------------------------------------------------------------------------
+// hetzelfde alleen zijn de namen  anders
 //  type = text met oninput
 const textNrInput = document.getElementById('textNrInput')
 const btnTextNrInput = document.getElementById('btnControleerTextNrInput')
